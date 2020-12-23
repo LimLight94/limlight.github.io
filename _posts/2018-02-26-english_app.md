@@ -6,8 +6,21 @@ thumbnail-img: /assets/img/hitEnglish/thumbnail.png
 tags: [영어학습 어플, restApi , TTS, Admob ]
 ---
 
-영어 학습 어플 입니다.
+# 영어 학습 어플리케이션
 
-2. Check permissions -> Don't have permissions<br/>
-: Request dialog is shown.<br/>
-![Screenshot](./assets/img/hitEnglish/sc1.png)<br/>
+
+## ScreenShot
+
+### Description
+
+1.(tts 이용)
+
+2.구글 Admob 이용
+(배너,전면)
+
+3.restApi
+
+4.network Exeption
+
+![Screenshot](https://limlight94.github.io/assets/img/hitEnglish/sc1.png?raw=true)<br/>
+![Screenshot](https://limlight94.github.io/assets/img/hitEnglish/sc2.png?raw=true)<br/>
