@@ -5,8 +5,10 @@ subtitle: 다음api 무한스크롤 검색
 tags: [DaunSearchAPI, infiniteScroll, WebView, Modal Design]
 ---
 
-# Cherish
+#DaumSearch_Infinite
 
+### Github
+https://github.com/LimLight94/DaumSearch_Infinite
 
 ### Tech Stack
 
