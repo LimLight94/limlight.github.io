@@ -12,6 +12,7 @@ subtitle: LimLight94
 ### 경력
 - APPG (웹,앱 에이전시) 2019.10 ~ 2020.02 (Android,5개월) 
 - 위더스넷 2021.11 ~ (Android,BackEnd)
+  
 ### Interest
 - Language : Java, Kotlin, Python, Php, JavaScript
 - Platform : Android, Backend(Php), Frontend (Vue.js)
