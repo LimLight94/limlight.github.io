@@ -6,7 +6,9 @@ tags: [DaunSearchAPI, infiniteScroll, WebView, Modal Design]
 ---
 
 ### [Github]
-[https://github.com/LimLight94/DaumSearch_Infinite](https://github.com/LimLight94/DaumSearch_Infinite)
+<a target="_blank" href='https://github.com/LimLight94/DaumSearch_Infinite'>
+https://github.com/LimLight94/DaumSearch_Infinite
+</a>
 
 ### Tech Stack
 
