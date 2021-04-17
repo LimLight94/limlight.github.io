@@ -20,7 +20,7 @@ tags: [영어학습 어플, restApi , TTS, Admob ]
 ## ScreenShot
 
 
-![Screenshot](../assets/img/hitEnglish/hitEnglish.gif)
-![Screenshot](https://limlight94.github.io/assets/img/hitEnglish/sc1.png?raw=true)<br/>
+<center><img src="../assets/img/hitEnglish/hitEnglish.gif" width="300"></img></center>
+![Screenshot](../assets/img/hitEnglish/sc1.png?raw=true)<br/>
 <br/>
-![Screenshot](https://limlight94.github.io/assets/img/hitEnglish/sc2.png?raw=true)<br/>
+![Screenshot](../assets/img/hitEnglish/sc2.png?raw=true)<br/>
