@@ -2,15 +2,14 @@
 layout: post
 title: Stroy Trip
 subtitle: 지도기반 컨텐츠 추천 어플리케이션
+thumbnail-img: /assets/img/storytrip/thumbnail.png
 tags: [GooglMap, SNS Login, Firebase, MVVM , LivaData , Youtube Api , In-app payment]
 ---
 
 # 스토리 트립
 
 
-## ScreenShot
-
-### Description
+## Description
 
 1. GoogleMap Api 이용
 
