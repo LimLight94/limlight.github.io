@@ -4,21 +4,23 @@ title: About me
 subtitle: LimLight94
 ---
 # Info
+<br>
 
-## 학력
+### 학력
 - 광운대학교 소프트웨어학부 4-1 재학
 
-## 경력
+### 경력
 - APPG (웹,앱 에이전시) 2019.10 ~ 2020.02 (Android,5개월) 
 - 위더스넷 2021.11 ~ (Android,BackEnd)
-## Interest
+### Interest
 - Language : Java, Kotlin, Python, Php, JavaScript
 - Platform : Android, Backend(Php), Frontend (Vue.js)
 - Ide: IntelliJ
 
 # Activity
+<br>
 
-## Android
+### Android
 - [명중영어(2018.10)](https://play.google.com/store/apps/details?id=com.HitEnglish&hl=ko)
   - 나열된 단어를 클릭하여 학습하는 명사중심 영어학습 App
     - Java
