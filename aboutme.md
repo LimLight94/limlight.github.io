@@ -8,10 +8,6 @@ subtitle: LimLight94
 
 ### 학력
 - 광운대학교 소프트웨어학부 4-1 재학
-
-### 경력
-- APPG (웹,앱 에이전시) 2019.10 ~ 2020.02 (Android,5개월) 
-- 위더스넷 2020.11 ~ (Android,BackEnd)
   
 ### Interest
 - Language : Java, Kotlin, Python, Php, JavaScript
